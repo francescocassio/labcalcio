@@ -1,0 +1,147 @@
+{
+  "campionato": "Serie A Enilive",
+  "stagione": "2025-2026",
+  "nazione": "Italia",
+  "squadre": [
+    {
+      "id": 1,
+      "nome": "Atalanta",
+      "citta": "Bergamo",
+      "stadio": "Gewiss Stadium",
+      "colori": ["Nero", "Azzurro"]
+    },
+    {
+      "id": 2,
+      "nome": "Bologna",
+      "citta": "Bologna",
+      "stadio": "Renato Dall'Ara",
+      "colori": ["Rosso", "Blu"]
+    },
+    {
+      "id": 3,
+      "nome": "Cagliari",
+      "citta": "Cagliari",
+      "stadio": "Unipol Domus",
+      "colori": ["Rosso", "Blu"]
+    },
+    {
+      "id": 4,
+      "nome": "Como",
+      "citta": "Como",
+      "stadio": "Giuseppe Sinigaglia",
+      "colori": ["Azzurro", "Bianco"]
+    },
+    {
+      "id": 5,
+      "nome": "Empoli",
+      "citta": "Empoli",
+      "stadio": "Carlo Castellani",
+      "colori": ["Azzurro"]
+    },
+    {
+      "id": 6,
+      "nome": "Fiorentina",
+      "citta": "Firenze",
+      "stadio": "Artemio Franchi",
+      "colori": ["Viola"]
+    },
+    {
+      "id": 7,
+      "nome": "Genoa",
+      "citta": "Genova",
+      "stadio": "Luigi Ferraris",
+      "colori": ["Rosso", "Blu"]
+    },
+    {
+      "id": 8,
+      "nome": "Inter",
+      "citta": "Milano",
+      "stadio": "Giuseppe Meazza",
+      "colori": ["Nero", "Azzurro"]
+    },
+    {
+      "id": 9,
+      "nome": "Juventus",
+      "citta": "Torino",
+      "stadio": "Allianz Stadium",
+      "colori": ["Bianco", "Nero"]
+    },
+    {
+      "id": 10,
+      "nome": "Lazio",
+      "citta": "Roma",
+      "stadio": "Olimpico",
+      "colori": ["Biancoceleste"]
+    },
+    {
+      "id": 11,
+      "nome": "Lecce",
+      "citta": "Lecce",
+      "stadio": "Via del Mare",
+      "colori": ["Giallo", "Rosso"]
+    },
+    {
+      "id": 12,
+      "nome": "Milan",
+      "citta": "Milano",
+      "stadio": "Giuseppe Meazza",
+      "colori": ["Rosso", "Nero"]
+    },
+    {
+      "id": 13,
+      "nome": "Monza",
+      "citta": "Monza",
+      "stadio": "U-Power Stadium",
+      "colori": ["Bianco", "Rosso"]
+    },
+    {
+      "id": 14,
+      "nome": "Napoli",
+      "citta": "Napoli",
+      "stadio": "Diego Armando Maradona",
+      "colori": ["Azzurro"]
+    },
+    {
+      "id": 15,
+      "nome": "Parma",
+      "citta": "Parma",
+      "stadio": "Ennio Tardini",
+      "colori": ["Giallo", "Blu"]
+    },
+    {
+      "id": 16,
+      "nome": "Roma",
+      "citta": "Roma",
+      "stadio": "Olimpico",
+      "colori": ["Giallorosso"]
+    },
+    {
+      "id": 17,
+      "nome": "Torino",
+      "citta": "Torino",
+      "stadio": "Olimpico Grande Torino",
+      "colori": ["Granata"]
+    },
+    {
+      "id": 18,
+      "nome": "Udinese",
+      "citta": "Udine",
+      "stadio": "Bluenergy Stadium",
+      "colori": ["Bianco", "Nero"]
+    },
+    {
+      "id": 19,
+      "nome": "Venezia",
+      "citta": "Venezia",
+      "stadio": "Pier Luigi Penzo",
+      "colori": ["Arancio", "Nero", "Verde"]
+    },
+    {
+      "id": 20,
+      "nome": "Verona",
+      "citta": "Verona",
+      "stadio": "Marcantonio Bentegodi",
+      "colori": ["Giallo", "Blu"]
+    }
+  ]
+}
